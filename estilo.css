@@ -1,0 +1,14 @@
+contenedor {
+  font-siza: 2rem;
+  color: blue;
+  align-content: center;
+}
+bogy {
+  background: green;
+}
+contenedor-1 {
+  font-siza: 1.2rem;
+  color: brown;
+  font-family: "Trebuhet MS", "Ludida Sans Unicode", Lucida Grande, Lucio;
+  align-content: baseline;
+}
